@@ -1,0 +1,3 @@
+﻿  GuessMyNumber.cpp
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\GuessMyNumber\GuessMyNumber\GuessMyNumber.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GuessMyNumber.vcxproj -> C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\GuessMyNumber\Debug\GuessMyNumber.exe
