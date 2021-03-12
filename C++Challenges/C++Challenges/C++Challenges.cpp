@@ -123,6 +123,34 @@ public:
     }
 };
 
+class Shape 
+{
+public:
+    string Color;
+
+    void GetArea()
+    {
+
+    }
+};
+
+class Rectangle : public Shape
+{
+    double Height;
+    double Width;
+};
+
+class Triangle : public Shape
+{
+    double Base;
+    double Height;
+};
+
+class Circle : public Shape
+{
+    double Radius;
+};
+
 int main()
 {
     // *****Basic*****
@@ -440,4 +468,22 @@ int main()
     TBone.Shake();
     TBone.Sit();
     TBone.LayDown();
+
+    // Inherits Color and method from Shape
+    Rectangle rect;
+    string Color("Blue");
+    double Height(3.1);
+    double Width(1.1);
+    rect.GetArea();
+
+    Triangle tri;
+    string Color("Green");
+    double Base(4.0);
+    double Height(19.5);
+    tri.GetArea();
+
+    Circle cir;
+    string Color("Yellow");
+    double Radius(6);
+    cir.GetArea();
 }
