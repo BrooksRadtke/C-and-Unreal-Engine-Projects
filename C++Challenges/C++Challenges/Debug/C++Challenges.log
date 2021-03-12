@@ -1,0 +1,6 @@
+﻿  C++Challenges.cpp
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\C++Challenges\C++Challenges\C++Challenges.cpp(87,41): warning C4584: 'myNeighborsNeighborsCats': base-class 'neighborCats' is already a base-class of 'myOtherNeighborsCats'
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\C++Challenges\C++Challenges\C++Challenges.cpp(67): message : see declaration of 'neighborCats'
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\C++Challenges\C++Challenges\C++Challenges.cpp(73): message : see declaration of 'myOtherNeighborsCats'
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\C++Challenges\C++Challenges\C++Challenges.cpp(144,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  C++Challenges.vcxproj -> C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\C++Challenges\Debug\C++Challenges.exe
