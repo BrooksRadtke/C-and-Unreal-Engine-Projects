@@ -1,0 +1,4 @@
+﻿  catch_amalgamated.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\catch_amalgamated.cpp': No such file or directory
+  FirstCatchTest.cpp
+  Generating Code...
