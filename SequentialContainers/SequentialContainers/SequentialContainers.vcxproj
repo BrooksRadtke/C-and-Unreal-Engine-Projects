@@ -139,9 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Array.cpp" />
     <ClCompile Include="CustomVectorClasses.cpp" />
     <ClCompile Include="EraseRemove.cpp" />
     <ClCompile Include="InsertVector.cpp" />
+    <ClCompile Include="Lists.cpp" />
     <ClCompile Include="SearchElements.cpp" />
     <ClCompile Include="SequentialContainers.cpp" />
     <ClCompile Include="SortDemo.cpp" />
