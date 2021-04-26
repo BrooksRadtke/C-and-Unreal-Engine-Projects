@@ -1,0 +1,6 @@
+﻿  2_BeadSort.cpp
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\SortingExercises\2_BeadSort\2_BeadSort\2_BeadSort\2_BeadSort.cpp(9,14): warning C4018: '>': signed/unsigned mismatch
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\SortingExercises\2_BeadSort\2_BeadSort\2_BeadSort\2_BeadSort.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\SortingExercises\2_BeadSort\2_BeadSort\2_BeadSort\2_BeadSort.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\SortingExercises\2_BeadSort\2_BeadSort\2_BeadSort\2_BeadSort.cpp(41,23): warning C4018: '<': signed/unsigned mismatch
+  2_BeadSort.vcxproj -> C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\SortingExercises\2_BeadSort\2_BeadSort\Debug\2_BeadSort.exe
