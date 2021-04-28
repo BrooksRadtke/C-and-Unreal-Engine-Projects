@@ -196,8 +196,8 @@ bool Solitaire::ValidMove(int from, int to)
 		return false;
 	}
 
-	Card* toCard;
-	Card* fromCard;
+	Card* toCard = NULL;
+	Card* fromCard = NULL;
 
 	if (from == 7)
 	{
@@ -511,7 +511,7 @@ void Solitaire::MakeMoveRowToRow(int from, int to)
 
 bool Solitaire::ValidRowToRowMove(Card* fromCard, int to)
 {
-	Card* toCard;
+	Card* toCard = NULL;
 
 	if (!_tableCards[to].empty())
 	{

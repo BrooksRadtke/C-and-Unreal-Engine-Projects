@@ -2,9 +2,7 @@
 C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\SolitaireLogic.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
 C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\SolitaireLogic.cpp(136,29): warning C4018: '<': signed/unsigned mismatch
 C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\SolitaireLogic.cpp(571,20): warning C4018: '<': signed/unsigned mismatch
-  TableCard.cpp
-  Generating Code...
-C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\TableCard.cpp(64): warning C4715: 'TableCard::top': not all control paths return a value
-C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\TableCard.cpp(101): warning C4715: 'TableCard::operator[]': not all control paths return a value
-C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\SolitaireLogic.cpp(247): error C4703: potentially uninitialized local pointer variable 'toCard' used
-C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\SolitaireLogic.cpp(534): error C4703: potentially uninitialized local pointer variable 'toCard' used
+Solitaire.obj : error LNK2019: unresolved external symbol "void __cdecl HandleMoveToAnswer(class Solitaire &)" (?HandleMoveToAnswer@@YAXAAVSolitaire@@@Z) referenced in function _main
+SolitaireLogic.obj : error LNK2019: unresolved external symbol "public: bool __thiscall Card::GetIsFaceUp(void)" (?GetIsFaceUp@Card@@QAE_NXZ) referenced in function "public: void __thiscall Solitaire::Deal(int)" (?Deal@Solitaire@@QAEXH@Z)
+SolitaireLogic.obj : error LNK2019: unresolved external symbol "public: char __thiscall Card::getCardSuit(void)" (?getCardSuit@Card@@QAEDXZ) referenced in function "public: bool __thiscall Solitaire::ValidMove(int,int)" (?ValidMove@Solitaire@@QAE_NHH@Z)
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Debug\Solitaire.exe : fatal error LNK1120: 3 unresolved externals
