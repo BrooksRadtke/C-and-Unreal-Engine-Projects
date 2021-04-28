@@ -4,4 +4,5 @@ This repository demonstrates basic examples of C++ fundamentals and exercises, i
 - [Calculator Tutorial](https://github.com/BrooksRadtke/CPlusPlus-and-Unreal-Engine-Projects/tree/main/CalculatorTutorial) : An exercise creating a basic and functional calculator
 - [Guess My Number](https://github.com/BrooksRadtke/CPlusPlus-and-Unreal-Engine-Projects/tree/main/GuessMyNumber) : A basic approach to random number generation
 - [LetterRace](https://github.com/BrooksRadtke/CPlusPlus-and-Unreal-Engine-Projects/tree/main/LetterRace) : A simple console application that works with random movement of a character (a-z) across the screen in a 'race' to the finish 
+- [Solitaire](https://github.com/BrooksRadtke/CPlusPlus-and-Unreal-Engine-Projects/tree/main/Solitaire) : A console application of the classic Solitaire card game
 - [Sudoku](https://github.com/BrooksRadtke/CPlusPlus-and-Unreal-Engine-Projects/tree/main/Sudoku) : A brief example of creating an algorithm that solves a grid with minimal, pre-determined values
