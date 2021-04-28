@@ -1,0 +1,10 @@
+﻿  SolitaireLogic.cpp
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\SolitaireLogic.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\SolitaireLogic.cpp(136,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\SolitaireLogic.cpp(571,20): warning C4018: '<': signed/unsigned mismatch
+  TableCard.cpp
+  Generating Code...
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\TableCard.cpp(64): warning C4715: 'TableCard::top': not all control paths return a value
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\TableCard.cpp(101): warning C4715: 'TableCard::operator[]': not all control paths return a value
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\SolitaireLogic.cpp(247): error C4703: potentially uninitialized local pointer variable 'toCard' used
+C:\Users\brook\Documents\TechAcademy\GitHub\Tech-Academy-Projects\CPlusPlus-and-Unreal-Engine-Projects\Solitaire\Solitaire\SolitaireLogic.cpp(534): error C4703: potentially uninitialized local pointer variable 'toCard' used
